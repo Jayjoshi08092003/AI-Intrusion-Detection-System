@@ -1,0 +1,18 @@
+# Local environment variables
+.env
+
+# Data and asset directories
+DATASETS/
+
+MEDIA/
+Processed_data/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (highly recommended to ignore)
+.venv/
+venv/
+ENV/
+env/
